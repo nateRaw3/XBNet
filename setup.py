@@ -28,13 +28,13 @@ setuptools.setup(
 
 
 		 install_requires=[
-		"sklearn==0.0",
-		"numpy == 1.22.0",
-		"pandas == 1.3.3",
-		"matplotlib==3.4.3",
-		 "torch==1.9.0",
-        "xgboost==1.4.2",
-		"tqdm==4.62.2"
+		"sklearn>=0.0",
+		"numpy >= 1.22.0",
+		"pandas >= 1.3.3",
+		"matplotlib>=3.4.3",
+		 "torch>=1.9.0",
+        "xgboost>=1.4.2",
+		"tqdm>=4.62.2"
 
 	],
 
